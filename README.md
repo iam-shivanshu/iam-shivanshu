@@ -23,11 +23,6 @@ I build embedded systems and the software around them — motion-based automatio
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/iam-shivanshu/esp8266-dvr-motion-automation?style=social)](https://github.com/iam-shivanshu/esp8266-dvr-motion-automation/stargazers)
 
-### GitHub stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=iam-shivanshu&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-shivanshu&layout=compact&hide_border=true" alt="Top languages" height="165" />
-
 ### Contribution activity
 
 <picture>
