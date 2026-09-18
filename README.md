@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- PARTICLE PORTRAIT — generated from private source, raw photo never committed -->
-<img
-  src="portrait_anim.gif"
-  alt="Shivanshu — particle identity map"
-  width="660"
-/>
+<!-- BANNER: terminal profile.sh --live (FS/SERPENTINE 1-BIT particle portrait + telemetry) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-dark.svg" width="100%" alt="profile.sh --live">
+</picture>
 
-<br/><br/>
+<br/>
 
 <!-- IDENTITY LINE -->
 <a href="https://github.com/iam-shivanshu">
