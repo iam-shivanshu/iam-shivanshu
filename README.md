@@ -1,13 +1,22 @@
 <div align="center">
 
-<!-- HERO BANNER: Typing Animation -->
+<!-- PARTICLE PORTRAIT — generated from private source, raw photo never committed -->
+<img
+  src="portrait_anim.gif"
+  alt="Shivanshu — particle identity map"
+  width="660"
+/>
+
+<br/><br/>
+
+<!-- IDENTITY LINE -->
 <a href="https://github.com/iam-shivanshu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=680&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivanshu;I+build+things+that+plug+into+the+real+world;Embedded+Systems+%7C+IoT+%7C+Automation;From+hardware+to+cloud+in+one+build" alt="Shivanshu — Embedded Systems & IoT Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=680&height=55&lines=Shivanshu+%2F+Embedded+Systems+%26+IoT;Building+things+that+plug+into+the+real+world;ESP8266+%7C+Firebase+%7C+Local+AI;Hardware+%E2%86%92+Software+%E2%86%92+Shipped" alt="Shivanshu — Embedded Systems & IoT" />
 </a>
 
 <br/>
 
-<!-- QUICK IDENTITY PILLS -->
+<!-- IDENTITY PILLS -->
 <p>
   <img src="https://img.shields.io/badge/ESP8266%20%2F%20Arduino-Embedded%20Systems-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Embedded Systems" />
   &nbsp;
