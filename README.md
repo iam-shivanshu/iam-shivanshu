@@ -37,7 +37,7 @@
 
 I'm a builder who finds the boundary between software and the physical world interesting — and keeps building there.
 
-My projects tend to start with a real problem: a DVR's motion signal going unused, a water tap with no one to remind you to close it, a voice command that should just *work* without a cloud subscription. I reverse-engineer what's available, figure out the minimum hardware to solve it cleanly, and ship it as open source.
+My projects tend to start with a real problem: a DVR's motion signal going unused, a water tap with no one to remind you to close it, a voice command that should just _work_ without a cloud subscription. I reverse-engineer what's available, figure out the minimum hardware to solve it cleanly, and ship it as open source.
 
 Right now I'm deep in **embedded systems** (ESP8266 / Arduino), **IoT automation with Firebase**, and **voice-driven AI interfaces**. I care about work that's deployable on real hardware, not just runnable in a notebook.
 
@@ -47,11 +47,8 @@ Right now I'm deep in **embedded systems** (ESP8266 / Arduino), **IoT automation
 
 ## `> ls ./what-i-build`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🔌 Embedded Systems & IoT
+
 Hardware-first projects that solve real-world problems without unnecessary complexity. One chip, one sensor, one clear purpose.
 
 - Ultrasonic sensing & proximity logic
@@ -59,10 +56,10 @@ Hardware-first projects that solve real-world problems without unnecessary compl
 - Active-low relay control & boot-safe GPIO
 - Single-supply power design (5V/12V)
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### 🏠 Home & Building Automation
+
 Turning dumb infrastructure into responsive systems — no proprietary hub required.
 
 - CCTV DVR motion → room automation bridge
@@ -70,12 +67,10 @@ Turning dumb infrastructure into responsive systems — no proprietary hub requi
 - Firebase Realtime DB remote override
 - PWA control panel (works offline)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
 ### 🎙️ Voice & AI Interfaces
+
 Making computers respond to humans naturally — locally when possible, cloud when it matters.
 
 - Offline neural TTS → flash-baked PCM audio
@@ -83,20 +78,16 @@ Making computers respond to humans naturally — locally when possible, cloud wh
 - Ollama (Mistral) local inference
 - No-cloud, no-subscription voice systems
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### ♻️ Conservation & Impact
+
 Building systems that change behaviour through smart feedback — not just monitoring.
 
 - Proximity-triggered water conservation alerts
 - Real-time behavioral nudge via audio playback
 - Deployable in schools, hostels, public spaces
 - Zero connectivity required after deployment
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -153,7 +144,7 @@ An ESP8266 intercepts the DVR's existing motion-detection output and drives rela
 
 > **A smart tap reminder that speaks to you. No Wi-Fi, no app, no cloud — just a chip, a sensor, and a speaker.**
 
-An ultrasonic sensor watches a water tap. When someone approaches within 40 cm, a spoken voice message plays: *"Please don't waste water."* The audio is neural-TTS-generated, preprocessed (DC-block, band-limit, soft-limit), and baked into flash as a 16-bit PCM array — no SD card, no MP3 decoder needed. Custom messages take one Python command to swap in.
+An ultrasonic sensor watches a water tap. When someone approaches within 40 cm, a spoken voice message plays: _"Please don't waste water."_ The audio is neural-TTS-generated, preprocessed (DC-block, band-limit, soft-limit), and baked into flash as a 16-bit PCM array — no SD card, no MP3 decoder needed. Custom messages take one Python command to swap in.
 
 **Stack:** `C / Arduino` · `ESP8266 Hardware Sigma-Delta` · `Python (PyAV)` · `Neural TTS` · `Offline`
 
@@ -188,15 +179,15 @@ Listens via microphone, transcribes with speech recognition, queries Ollama (Mis
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=iam-shivanshu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=iam-shivanshu&show_icons=true&theme=default&hide_border=true&title_color=0969DA&icon_color=0969DA" />
-  <img src="https://github-readme-stats.vercel.app/api?username=iam-shivanshu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra.vercel.app/api?username=iam-shivanshu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-anuraghazra.vercel.app/api?username=iam-shivanshu&show_icons=true&theme=default&hide_border=true&title_color=0969DA&icon_color=0969DA" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=iam-shivanshu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="165" />
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-shivanshu&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-shivanshu&layout=compact&theme=default&hide_border=true&title_color=0969DA" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-shivanshu&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=iam-shivanshu&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=iam-shivanshu&layout=compact&theme=default&hide_border=true&title_color=0969DA" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=iam-shivanshu&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="165" />
 </picture>
 
 </div>
@@ -246,7 +237,7 @@ Open to:
 
 <br/><br/>
 
-*Building in public. Everything is open source.*
+_Building in public. Everything is open source._
 
 </div>
 
