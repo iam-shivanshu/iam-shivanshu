@@ -188,15 +188,15 @@ Listens via microphone, transcribes with speech recognition, queries Ollama (Mis
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=iam-shivanshu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=iam-shivanshu&show_icons=true&theme=default&hide_border=true&title_color=0969DA&icon_color=0969DA" />
-  <img src="https://github-readme-stats.vercel.app/api?username=iam-shivanshu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra.vercel.app/api?username=iam-shivanshu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-anuraghazra.vercel.app/api?username=iam-shivanshu&show_icons=true&theme=default&hide_border=true&title_color=0969DA&icon_color=0969DA" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=iam-shivanshu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="165" />
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-shivanshu&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-shivanshu&layout=compact&theme=default&hide_border=true&title_color=0969DA" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-shivanshu&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=iam-shivanshu&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=iam-shivanshu&layout=compact&theme=default&hide_border=true&title_color=0969DA" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=iam-shivanshu&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="165" />
 </picture>
 
 </div>
